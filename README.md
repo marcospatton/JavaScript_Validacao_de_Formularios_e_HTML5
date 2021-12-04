@@ -26,3 +26,9 @@ JavaScript_Validacao_de_Formularios_e_HTML5
 <li>Como mostrar a mensagem de erro diretamente no HTML</li>
 
 <li>Como customizar as mensagens de erro de validação</li>
+
+<li>A validar cpf com números repetidos</li>
+
+<li>A matemática por trás da validação de um CPF</li>
+
+<li>Recursão de função</li>
