@@ -18,3 +18,11 @@ JavaScript_Validacao_de_Formularios_e_HTML5
 <li>Utilizar data attributes para trabalhar com JavaScript</li>
 
 <li>Deixar a função de validação mais genérica para funcionar com qualquer input</li>
+
+<li>A instalar e usar o plugin Liveserver</li>
+
+<li>Como baixar e rodar o browser-sync</li>
+
+<li>Como mostrar a mensagem de erro diretamente no HTML</li>
+
+<li>Como customizar as mensagens de erro de validação</li>
