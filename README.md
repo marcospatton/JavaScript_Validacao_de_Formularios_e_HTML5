@@ -38,3 +38,5 @@ JavaScript_Validacao_de_Formularios_e_HTML5
 <li>Como fazer uma requisição para a API da ViaCEP</li>
 
 <li>Preencher outros campos do formulário com a resposta da API da ViaCEP</li>
+
+<li>Como adicionar máscara monetária para o campo de preço.</li>
