@@ -32,3 +32,9 @@ JavaScript_Validacao_de_Formularios_e_HTML5
 <li>A matemática por trás da validação de um CPF</li>
 
 <li>Recursão de função</li>
+
+<li>Outra estrutura de regex para a pré validação do CEP</li>
+
+<li>Como fazer uma requisição para a API da ViaCEP</li>
+
+<li>Preencher outros campos do formulário com a resposta da API da ViaCEP</li>
